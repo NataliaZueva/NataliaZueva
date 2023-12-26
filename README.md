@@ -9,6 +9,7 @@
 
 ### Здесь вы можете познакомиться с миоим творчеством и посмотреть работы за время обучени в университете 
 
+
 #### Вот некоторое из них 
 - разработоный гайдлайн для "Прикладная информатика" https://bki.matecdn.ru/-/eb37717a-008e-45ee-aa35-cac1634707e3/preza.pdf
 - мое портфолио https://github.com/NataliaZueva/my_portfolio/blob/main/My_portfolio/%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE2.pdf
@@ -16,6 +17,8 @@
 Знаете с какими языками мне нравистя работать больше всего?) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Самое интересное, что я веду git.hab с самого начала обучения, так что тут можно найти много интересного! 
 
 
 А вот небольшая статистика о моей работе: 
