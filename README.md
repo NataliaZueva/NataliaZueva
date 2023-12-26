@@ -11,19 +11,35 @@
 
 #### Вот некоторое из них 
 - разработоный гайдлайн для "Прикладная информатика" https://bki.matecdn.ru/-/eb37717a-008e-45ee-aa35-cac1634707e3/preza.pdf
-- 
+- мое портфолио https://github.com/NataliaZueva/my_portfolio/blob/main/My_portfolio/%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE2.pdf
 
-
-А вот небольшая статистика о моей работе: 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+Знаете с какими языками мне нравистя работать больше всего?) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Вот некоторые из моих репозиториев:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-Так же у меня хорошая активвность: 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+А вот небольшая статистика о моей работе: 
+
+Карточка профиля: 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+
+Статистика языков в коммитах:
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
+
+Статистика языков в репозиториях:
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+
+Статистика профиля:
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+
+Данные по коммитам за сутки:
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
+
 
 <!--
 **NataliaZueva/NataliaZueva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
