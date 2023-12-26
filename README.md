@@ -7,11 +7,23 @@
 <h3 align="center">Дизайнера 3 курса ИГУ, ФБКИ</h3>
 
 
-#### Здесь вы можете познакомиться с миоим творчеством и посмотреть работы за время обучени в университете 
+### Здесь вы можете познакомиться с миоим творчеством и посмотреть работы за время обучени в университете 
 
-Вот например разработоный гайдлайн для "Прикладная информатика" https://bki.matecdn.ru/-/eb37717a-008e-45ee-aa35-cac1634707e3/preza.pdf
+#### Вот некоторое из них 
+- разработоный гайдлайн для "Прикладная информатика" https://bki.matecdn.ru/-/eb37717a-008e-45ee-aa35-cac1634707e3/preza.pdf
+- 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+А вот небольшая статистика о моей работе: 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Вот некоторые из моих репозиториев:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+Так же у меня хорошая активвность: 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **NataliaZueva/NataliaZueva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
