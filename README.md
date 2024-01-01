@@ -1,18 +1,14 @@
+<h1 align="center">Привет, это профиль <a href="https://t.me/Nata_zuv" target="_blank">Зуевой Натальи</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Дизайнер 3 курса ИГУ, ФБКИ</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Дизайнер+3+курса)](https://git.io/typing-svg)
-
-
-<h1 align="center">Привет, это профиль <a href="https://t.me/Nata_zuv" target="_blank">Зуевой Натальи</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Дизайнера 3 курса ИГУ, ФБКИ</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Красивая+чтука+:3)](https://git.io/typing-svg)
 
 
-### Здесь вы можете познакомиться с миоим творчеством и посмотреть работы за время обучени в университете 
-
+<h3 align="center">Здесь вы можете познакомиться с миоим творчеством и посмотреть работы за время обучения в университете и не только </h3>
 
 #### Вот некоторое из них 
-- разработоный гайдлайн для "Прикладная информатика" https://bki.matecdn.ru/-/eb37717a-008e-45ee-aa35-cac1634707e3/preza.pdf
-- мое портфолио https://github.com/NataliaZueva/my_portfolio/blob/main/My_portfolio/%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE2.pdf
+- разработоный гайдлайн для ["Прикладная информатика"](https://bki.matecdn.ru/-/eb37717a-008e-45ee-aa35-cac1634707e3/preza.pdf)
+- мое дизайнерское [портфолио](https://github.com/NataliaZueva/my_portfolio/blob/main/My_portfolio/%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE2.pdf), разработанное для книги
 
 Знаете с какими языками мне нравистя работать больше всего?) 
 
