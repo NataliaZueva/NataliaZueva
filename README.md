@@ -7,7 +7,7 @@
 <h3 align="center">Здесь вы можете познакомиться с миоим творчеством и посмотреть работы за время обучения в университете и не только </h3>
 
 #### Вот некоторое из них 
-- разработоный гайдлайн для ["Прикладная информатика"]([https://bki.matecdn.ru/-/eb37717a-008e-45ee-aa35-cac1634707e3/preza.pdf](https://github.com/NataliaZueva/my_portfolio/blob/main/%D0%93%D0%B0%D0%B9%D0%B4%D0%BB%D0%B0%D0%B9%D0%BD%20%D0%9F%D0%98.pdf))
+- разработоный гайдлайн для ["Прикладная информатика"](https://github.com/NataliaZueva/my_portfolio/blob/main/%D0%93%D0%B0%D0%B9%D0%B4%D0%BB%D0%B0%D0%B9%D0%BD%20%D0%9F%D0%98.pdf)
 - мое дизайнерское [портфолио](https://github.com/NataliaZueva/my_portfolio/blob/main/My_portfolio/%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE2.pdf), разработанное для книги
 
 Знаете с какими языками мне нравистя работать больше всего?) 
